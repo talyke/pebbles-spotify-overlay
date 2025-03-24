@@ -1,4 +1,4 @@
-# PebblesSpotifyOverlay
+# PebblesSpotifyOverlay WIP!!!!!!!!!!!!!!!!!!!!!!!!! just fyi
 
 ![PebblesSpotifyOverlay Logo](https://images.unsplash.com/photo-1614680376408-81e91ffe3db7?w=120&h=120&fit=crop&q=80)
 
@@ -23,10 +23,11 @@ A customizable overlay application for enhancing your Spotify podcast experience
 ## 📱 Screenshots
 
 ### Podcast Library
-![Podcast Library](https://images.unsplash.com/photo-1611162616475-46b635cb6868?w=800&h=400&fit=crop&q=80)
+![image](https://github.com/user-attachments/assets/ca503e52-41f6-4a8f-849b-2e3fa94887e3)
 
 ### Now Playing View
-![Now Playing](https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=800&h=400&fit=crop&q=80)
+![image](https://github.com/user-attachments/assets/f5b9b68f-001f-4316-abeb-ad2361a897f0)
+
 
 ## 🔧 Technologies Used
 
