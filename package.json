@@ -1,0 +1,18 @@
+{
+  "name": "pebbles-spotify-overlay",
+  "version": "1.0.0",
+  "description": "Custom Spotify overlay for enhanced podcast experience",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "spotify-web-api-js": "^1.5.2",
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1",
+    "cors": "^2.8.5",
+    "vite": "^4.4.9"
+  }
+}
