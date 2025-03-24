@@ -26,7 +26,7 @@ A customizable overlay application for enhancing your Spotify podcast experience
 ![image](https://github.com/user-attachments/assets/ca503e52-41f6-4a8f-849b-2e3fa94887e3)
 
 ### Now Playing View
-![image](https://github.com/user-attachments/assets/f5b9b68f-001f-4316-abeb-ad2361a897f0)
+WIP!!!!!!!!!!!!!!!!!!!! ;p
 
 
 ## 🔧 Technologies Used
